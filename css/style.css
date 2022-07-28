@@ -1,0 +1,28 @@
+
+.base-color {
+    color: #289BDE;
+}
+.btn-general {
+    background-color: #289BDE;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+.btn-transparent {
+    background-color: white;
+    color: #289BDE;
+    border: 2px solid #289BDE;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+.btn-transparent:hover {
+    background-color: #289BDE;
+    color: white;
+    border: 2px solid #289BDE;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+
+.car-img {
+    filter:brightness(50%)
+}
